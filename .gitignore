@@ -1,0 +1,9 @@
+*.mp4
+*.mix
+*.gif
+*.exe
+# calabi_yau_assets/blender/d
+# 3d-sinusoidal.stl
+calabi_yau_component
+*.stl
+
